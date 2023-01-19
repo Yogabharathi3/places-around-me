@@ -81,6 +81,10 @@ APPITYAMPATTY
 <h1> APPIYAMPATTY </h1>
 <h2>SMALL VILLAGE</h2>
 <p>Appiyampatti is a Village in Thoppampatti Block in Dindigul District of Tamil Nadu State, India. It is located 57 KM towards west</p>
+<p>There are many people living in that living</p>
+<p>There is small shop </p>
+<p>Many cows are there in that village</p>
+<p>It is the small village but many members living happily in that village</p>
 </body>
 </html>
 ```
@@ -95,8 +99,13 @@ AVALAMPATTI
 
 <h1> AVALAMPATTI </h1>
 <h2>SMALL VILLAGE</h2>
-<p>Avalampatti is a small Village/hamlet in Morappur Block in Dharmapuri District of Tamil Nadu State, India. It comes under Bannikulam Panchayath.</p>
-
+<p>Avalampatti is a small Village/hamlet in Morappur Block in Dharmapuri District of Tamil Nadu State, India.</p>
+ <p>It comes under Bannikulam Panchayath.</p>
+<p>It is located 28 KM towards East from District head quarters Dharmapuri</p>
+<p> 4 KM from Morappur. 267 KM from State capital Chennai</p>
+<p>Avalampatti, Thasiri Alli Post is a prominent landmark in the area and this establishment is in close proximity to the same</p>
+</body>
+</html>
 </body>
 </html>
 ```
@@ -130,6 +139,10 @@ NADUPATTI
 <h1> NADUPATTI </h1>
 <h2>SMALL VILLAGE</h2>
 <p>Nadupatti village is located in Harur taluka of Dharmapuri district in Tamil Nadu, India. It is situated 14km away from sub-district headquarter Harur</p>
+<p>As per 2009 stats, Nadupatti village is also a gram panchayat.</p>
+<p>There are about 268 houses in nadupatti village</p>
+<p>Uthukuli is nearest town to nadupatti village for all major economic activities.</p>
+<p>The total geographical area of village is 512.34 hectares.</p>
 </body>
 </html>
 ```
@@ -137,10 +150,10 @@ NADUPATTI
 ## Output:
 ![](map.png)
 ![](morappur.png)
-![](appiyampatti.png)
-![](avalampatti.png)
+![](appiyam.png)
+![](avalam.png)
 ![](temple.png)
-![](nadupatti.png)
+![](nadu.png)
 
 ## Result:
 Successfully developed a webpage for each location and linked it to the image region.
